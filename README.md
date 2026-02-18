@@ -18,10 +18,6 @@ This behavior is intentional for demonstration purposes and can be easily change
 - [x] Uniform error handling and server responses
 - [x] API documentation ([API_DOCUMENTATION.md](API_DOCUMENTATION.md))
 
-## To-Dos
-
-- [ ] Comprehensive testing
-
 ---
 
 # Bibliothekssystem
@@ -44,6 +40,3 @@ Dieses Verhalten ist bewusst so gewählt und kann mit ein paar kleinen Änderung
 - [x] Einheitliche Fehlerbehandlung und Server Responses
 - [x] API-Dokumentation ([API_DOCUMENTATION.md](API_DOCUMENTATION.md))
 
-## To-Dos
-
-- [ ] Umfassende Tests
